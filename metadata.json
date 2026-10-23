@@ -1,0 +1,6 @@
+{
+  "name": "E-Modul Ekonomi SMA Terpadu (Bab 1 - 4)",
+  "description": "Dashboard interaktif pembelajaran mandiri Ekonomi SMA Kelas X mencakup Bab 1 Kelangkaan, Bab 2 Masalah & Sistem Ekonomi, Bab 3 Permintaan Penawaran & Elastisitas, dan Bab 4 Perilaku Konsumen & Produsen dengan simulasi visual, 200 soal PG, dan 80 soal esai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
